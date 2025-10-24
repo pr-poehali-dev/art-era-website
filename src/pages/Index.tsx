@@ -61,19 +61,19 @@ const Index = () => {
   const cases = [
     {
       title: 'Корпоративное мероприятие',
-      client: 'Финансовая компания',
+      client: '',
       result: 'Полное оформление зала и мерч для 200 гостей',
       color: 'from-orange-500 to-pink-500'
     },
     {
       title: 'Брендированная сувенирная продукция',
-      client: 'IT-компания',
+      client: '',
       result: 'Любой сложности вне зависимости от тиража',
       color: 'from-purple-500 to-indigo-500'
     },
     {
       title: 'Выставочные стенды, музейные застройки',
-      client: 'Производственная компания',
+      client: '',
       result: 'Более 100 исполненных проектов',
       color: 'from-blue-500 to-cyan-500'
     }
@@ -243,8 +243,7 @@ const Index = () => {
                 <div className={`h-48 bg-gradient-to-br ${item.color} relative overflow-hidden`}>
                   <div className="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-all duration-300"></div>
                   <div className="absolute bottom-6 left-6 right-6">
-                    <h3 className="font-heading font-bold text-2xl text-white mb-2">{item.title}</h3>
-                    <p className="text-white/90 text-sm">{item.client}</p>
+                    <h3 className="font-heading font-bold text-2xl text-white">{item.title}</h3>
                   </div>
                 </div>
                 <div className="p-6">
