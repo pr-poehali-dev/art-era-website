@@ -60,21 +60,21 @@ const Index = () => {
 
   const cases = [
     {
-      title: 'Запуск нового продукта',
-      client: 'Tech Startup',
-      result: '+350% продаж за 3 месяца',
+      title: 'Корпоративное мероприятие',
+      client: 'Финансовая компания',
+      result: 'Полное оформление зала и мерч для 200 гостей',
       color: 'from-orange-500 to-pink-500'
     },
     {
-      title: 'Ребрендинг компании',
-      client: 'Retail Chain',
-      result: '+120% узнаваемости бренда',
+      title: 'Брендированная сувенирка',
+      client: 'IT-компания',
+      result: '5000+ единиц продукции за 2 недели',
       color: 'from-purple-500 to-indigo-500'
     },
     {
-      title: 'Digital-трансформация',
-      client: 'Manufacturing',
-      result: 'ROI 280%',
+      title: 'Выставочный стенд',
+      client: 'Производственная компания',
+      result: 'Дизайн и декорации под ключ за 10 дней',
       color: 'from-blue-500 to-cyan-500'
     }
   ];
