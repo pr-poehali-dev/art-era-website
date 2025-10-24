@@ -147,7 +147,7 @@ const Index = () => {
                 </span>
               </h1>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                Трансформируем бренды через инновационные рекламные решения и технологии.
+                Мы — агентство рекламных технологий. Трансформируем бренды через инновационные решения.
                 Каждый проект — это история успеха.
               </p>
               <div className="flex flex-wrap gap-4">
@@ -175,17 +175,17 @@ const Index = () => {
               <div className="relative grid grid-cols-2 gap-4">
                 <Card className="p-6 bg-white/80 backdrop-blur-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
                   <Icon name="TrendingUp" size={32} className="text-orange-500 mb-3" />
-                  <h3 className="font-heading font-bold text-3xl mb-1">350+</h3>
+                  <h3 className="font-heading font-bold text-3xl mb-1">150+</h3>
                   <p className="text-gray-600 text-sm">Успешных проектов</p>
                 </Card>
                 <Card className="p-6 bg-white/80 backdrop-blur-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 mt-8">
                   <Icon name="Users" size={32} className="text-purple-600 mb-3" />
-                  <h3 className="font-heading font-bold text-3xl mb-1">150+</h3>
+                  <h3 className="font-heading font-bold text-3xl mb-1">50+</h3>
                   <p className="text-gray-600 text-sm">Довольных клиентов</p>
                 </Card>
                 <Card className="p-6 bg-white/80 backdrop-blur-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
                   <Icon name="Award" size={32} className="text-pink-500 mb-3" />
-                  <h3 className="font-heading font-bold text-3xl mb-1">25+</h3>
+                  <h3 className="font-heading font-bold text-3xl mb-1">12+</h3>
                   <p className="text-gray-600 text-sm">Наград и премий</p>
                 </Card>
                 <Card className="p-6 bg-white/80 backdrop-blur-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 mt-8">
@@ -303,11 +303,11 @@ const Index = () => {
               </h2>
               <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
                 <p>
-                  <strong className="text-orange-500">Арт Эра</strong> — это команда профессионалов, 
-                  которая уже 5 лет создаёт инновационные рекламные решения для амбициозных брендов.
+                  <strong className="text-orange-500">Арт Эра</strong> — агентство рекламных технологий, 
+                  которое уже 5 лет создаёт инновационные решения для амбициозных брендов.
                 </p>
                 <p>
-                  Мы не просто запускаем рекламу — мы создаём экосистемы роста, где каждый элемент 
+                  Мы не просто запускаем рекламу — мы создаём технологичные экосистемы роста, где каждый элемент 
                   работает на достижение ваших бизнес-целей.
                 </p>
                 <p>
