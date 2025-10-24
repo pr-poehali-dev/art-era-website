@@ -148,7 +148,6 @@ const Index = () => {
               </h1>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
                 Мы — агентство рекламных технологий. Трансформируем бренды через инновационные решения.
-                Каждый проект — это история успеха.
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button 
