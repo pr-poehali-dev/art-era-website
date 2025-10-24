@@ -184,11 +184,6 @@ const Index = () => {
                   <p className="text-gray-600 text-sm">Довольных клиентов</p>
                 </Card>
                 <Card className="p-6 bg-white/80 backdrop-blur-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
-                  <Icon name="Award" size={32} className="text-pink-500 mb-3" />
-                  <h3 className="font-heading font-bold text-3xl mb-1">12+</h3>
-                  <p className="text-gray-600 text-sm">Наград и премий</p>
-                </Card>
-                <Card className="p-6 bg-white/80 backdrop-blur-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 mt-8">
                   <Icon name="Zap" size={32} className="text-orange-500 mb-3" />
                   <h3 className="font-heading font-bold text-3xl mb-1">5</h3>
                   <p className="text-gray-600 text-sm">Лет на рынке</p>
