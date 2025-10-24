@@ -137,7 +137,7 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in-up">
               <div className="inline-block mb-4 px-4 py-2 bg-orange-100 rounded-full">
-                <span className="text-orange-600 font-medium text-sm">10 лет в рекламных технологиях</span>
+                <span className="text-orange-600 font-medium text-sm">5 лет в рекламных технологиях</span>
               </div>
               <h1 className="font-heading font-black text-6xl lg:text-7xl mb-6 leading-tight">
                 Создаём
@@ -185,7 +185,7 @@ const Index = () => {
                 </Card>
                 <Card className="p-6 bg-white/80 backdrop-blur-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
                   <Icon name="Zap" size={32} className="text-orange-500 mb-3" />
-                  <h3 className="font-heading font-bold text-3xl mb-1">10</h3>
+                  <h3 className="font-heading font-bold text-3xl mb-1">5</h3>
                   <p className="text-gray-600 text-sm">Лет на рынке</p>
                 </Card>
               </div>
@@ -299,7 +299,7 @@ const Index = () => {
               <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
                 <p>
                   <strong className="text-orange-500">Арт Эра</strong> — агентство рекламных технологий, 
-                  которое уже 10 лет создаёт инновационные решения для амбициозных брендов.
+                  которое уже 5 лет создаёт инновационные решения для амбициозных брендов.
                 </p>
                 <p>
                   Мы не просто запускаем рекламу — мы создаём технологичные экосистемы роста, где каждый элемент 
